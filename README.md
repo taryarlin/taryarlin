@@ -1,4 +1,4 @@
-<h2> Hi, I'm <a href='https://bento.me/ayon-ssp' target="_blank">Ayon</a>! <img src="Profile2/run.png" width="50"><img align='right' src="https://spotify-bar.vercel.app/api/now-playing" width="500"></h2>
+<h2> Hi, I'm <a href='https://bento.me/ayon-ssp' target="_blank">Taryar</a>! <img src="Profile2/run.png" width="50"></h2>
 
 
 
@@ -16,14 +16,13 @@
 ### <img src="Profile2/cofi.png" width="50">  About Me
 
 ```javascript
-const Ayon_ssp = {
+const taryarlin = {
   pronouns: "he" | "him",
-  Iam : ["Software Developer", "OPEN SOURCE Dev", "Competitive Programming"],
-  code: [Python, SQL, Javascript, CSS, PHP, C/C++],
-  tools & Tech: [Django, Django-REST, React JS, vscode, Node, PostgreSQL, Docker, Linux, Git, Flask, HTML, Postman],
+  Iam : ["Software Developer", "Competitive Programming"],
+  code: [PHP, SQL, Javascript, CSS],
+  tools & Tech: [Laravel, Express, React JS, vscode, Node, PostgreSQL, Docker, Linux, Git, HTML, Postman],
   TechWork: {
           Competitive Programming: "Solving Problems",
-          OPEN SOURCE Dev : "RandomCoderOrg",
     },
   Experience: {
           Technical Content Writer: "GeeksForGeeks",
@@ -32,7 +31,7 @@ const Ayon_ssp = {
           SDE Intern: "Mastek",
     },
   WorkedOn: {
-          Mastek: "Java, PL/SQL",
+          Mastek: "PHP, SQL",
           DIGIFRILLS PVT LTD: "Node JS, MongoDB, API, Schema Design, Appwrite",
           ENITIATE: "React JS, JavaScript, JSON Web Token (JWT), PostgreSQL, Vite",
           RandomCoderOrgRandomCoderOrg: "Python (Programming Language), Api, yml, Linux, Github Actions",
